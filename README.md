@@ -43,13 +43,13 @@ Download the dataset from here: https://www.kaggle.com/alexattia/the-simpsons-ch
 
 
 ## Training Accuracy: 0.9998
-![Image of Training Accuracy](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/acc_train.PNH) 
+![Image of Training Accuracy](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/acc_train.PNG) 
 ## Testing Accuracy: 1
-![Image of Testing Accuracy](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/acc_test.PNH) 
+![Image of Testing Accuracy](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/acc_test.PNG) 
 
 ## Training Loss: 0.0012
-![Image of Training Loss](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/loss_train.PNH) 
+![Image of Training Loss](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/loss_train.PNG) 
 ## Testing Loss: 0.0014
-![Image of Testing Loss](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/loss_test.PNH) 
+![Image of Testing Loss](https://raw.githubusercontent.com/damgambit/simpsons_characters-classification/master/images/loss_test.PNG) 
 
 Thank you!
